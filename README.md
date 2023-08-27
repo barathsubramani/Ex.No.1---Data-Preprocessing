@@ -113,4 +113,4 @@ print(len(X_test))
 
 
 ## RESULT
-/Type your result here/
+Thus, the Data preprocessing is performed over a data set successfully.
