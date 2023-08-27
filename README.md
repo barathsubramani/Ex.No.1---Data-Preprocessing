@@ -92,6 +92,22 @@ print(len(X_test))
 ```
 
 ## OUTPUT:
+## Data Set and its properties
+![model](1.png)
+![model](2.png)
+![model](3.png)
+![model](4.png)
+![model](5.png)
+## Normlised Data Set
+![model](6.png)
+## X and Y column data
+![model](7.png)
+![model](8.png)
+## Training Data
+![model](9.png)
+## Test Data
+![model](10.png)
+
 
 
 ## RESULT
