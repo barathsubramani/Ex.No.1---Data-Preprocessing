@@ -98,6 +98,7 @@ print(len(X_test))
 ![model](3.png)
 ## Duplicated
 ![model](4.png)
+## df['Exited'].describe()
 ![model](5.png)
 ## Normlised Data Set
 ![model](6.png)
