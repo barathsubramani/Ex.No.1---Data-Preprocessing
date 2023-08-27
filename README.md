@@ -96,6 +96,7 @@ print(len(X_test))
 ![model](1.png)
 ![model](2.png)
 ![model](3.png)
+## Duplicated
 ![model](4.png)
 ![model](5.png)
 ## Normlised Data Set
