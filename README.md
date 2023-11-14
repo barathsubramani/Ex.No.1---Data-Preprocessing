@@ -88,7 +88,6 @@ print(len(X_test))
 ```
 ## Data Set and its properties
 ![model](1.png)
-![model](2.png)
 ![model](3.png)
 ## Duplicated
 ![model](4.png)
