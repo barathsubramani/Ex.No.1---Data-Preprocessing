@@ -90,8 +90,6 @@ print(X_test)
 print("\n")
 print(len(X_test))
 ```
-
-## OUTPUT:
 ## Data Set and its properties
 ![model](1.png)
 ![model](2.png)
